@@ -1,0 +1,24 @@
+﻿body {
+    background-color: #B22222;
+    color: #F5FFFA;
+     }
+.button, .b1, .b2, .b3, .b4, .b5, .b6, .b7, .b8, .b9,
+.b0, .bcom, .bsuma, .bresta, .bequal, .bclear, .bmulti,
+.bdiv, .braiz, .bfact, .bfibon {
+    font-family: "Rockwell Extra Bold", Rockwell, serif;
+    background-color: #F8F8FF;
+    color: #000000;
+    border: 2px solid #8B008B;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 25px;
+    cursor: pointer;
+    text-align: center;
+}
+
+h1 {
+    font-family: "Rockwell Extra Bold", Rockwell, serif;
+    font-weight: 800;
+    color: #F0FFFF;
+}
+
